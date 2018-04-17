@@ -9,14 +9,7 @@
 
   <xsl:template match="/hall">
     <xsl:copy>
-      <!-- see xsl:attribute to copy attributes of the element -->
-      <xsl:apply-templates select="hallgatok" />
-    </xsl:copy>
-  </xsl:template>
-
-  <xsl:template match="hallgatok">
-    <xsl:copy>
-      <xsl:copy-of select="record[year-from-date(current-date())-year-from-date(szuletesidatum/@date)&lt;24]"/>
+      <xsl:copy-of select="hallgatok/record[year-from-date(current-date())-year-from-date(szuletesidatum/@date)&lt;24]"/>
     </xsl:copy>
   </xsl:template>
 </xsl:stylesheet>
