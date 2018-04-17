@@ -7,20 +7,11 @@
 
   <xsl:output method="xml" indent="yes" />
 
-  <xsl:template match="/hall">
-    <xsl:copy>
-      <!-- see xsl:attribute to copy attributes of the element -->
-      <xsl:apply-templates select="hallgatok" />
-    </xsl:copy>
+  <xsl:template match="/">
+    <xsl:copy-of select="hall/hallgatok"/>
+  </xsl:template>
+  <xsl:template match="szuletesidatum[/@date='1992-06-05']">
+    <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="hallgatok">
-	<xsl:copy>
-        <xsl:apply-templates/>
-    </xsl:copy>
-  </xsl:template>
-
-  <xsl:template match="@*|node()">
-    <xsl:copy-of select="@*|b/@*" />
-  </xsl:template>
 </xsl:stylesheet>
