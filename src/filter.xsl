@@ -16,8 +16,7 @@
 
   <xsl:template match="hallgatok">
     <xsl:copy>
-      <!-- deep-copy all the records that are of type sailing boat -->
-      <xsl:copy-of select="record[szuletesidatum/@date='1992-06-05']"/>
+      <xsl:copy-of select="record[year-from-date(szuletesidatum/@date)>1995]"/>
     </xsl:copy>
   </xsl:template>
 </xsl:stylesheet>
