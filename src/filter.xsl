@@ -16,7 +16,7 @@
 
   <xsl:template match="hallgatok">
     <xsl:copy>
-      <xsl:copy-of select="record[year-from-date(szuletesidatum/@date)>1995]"/>
+      <xsl:copy-of select="record[year-from-date(current-date())-year-from-date(szuletesidatum/@date)&lt;24]"/>
     </xsl:copy>
   </xsl:template>
 </xsl:stylesheet>
