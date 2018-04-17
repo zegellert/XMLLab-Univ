@@ -18,9 +18,9 @@
 	<xsl:copy>
         <xsl:apply-templates/>
     </xsl:copy>
-  <!--
-    <xsl:copy>
-      <xsl:apply-templates select="record" />
-    </xsl:copy>-->
+  </xsl:template>
+
+  <xsl:template match="@*|node()">
+    <xsl:copy-of select="@*|b/@*" />
   </xsl:template>
 </xsl:stylesheet>
