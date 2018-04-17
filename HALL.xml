@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hall element-type="dataset">
+  <hallgatok element-type="recordset">
+    <record element-type="record" hallgatoid="10000">
+      <poseidonkod is-null="False">af45hg</poseidonkod>
+      <nev is-null="False">Claire Young</nev>
+      <cim is-null="False">Sault Ste Marie Ontario</cim>
+      <szuletesidatum is-null="False" date="1992-06-05" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2010</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10001">
+      <poseidonkod is-null="False">qre7gh</poseidonkod>
+      <nev is-null="False">Andrew Carricato</nev>
+      <cim is-null="False">Highlands North Carolina</cim>
+      <szuletesidatum is-null="False" date="1996-12-04" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2014</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10002">
+      <poseidonkod is-null="False">hgfe3r</poseidonkod>
+      <nev is-null="False">Ribeka Horiguchi</nev>
+      <cim is-null="False">Tenzinbashi Osaka</cim>
+      <szuletesidatum is-null="False" date="1994-04-18" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2012</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10003">
+      <poseidonkod is-null="False">ajaj46</poseidonkod>
+      <nev is-null="False">Nagy Ferenc</nev>
+      <cim is-null="False">Tiszaújváros</cim>
+      <szuletesidatum is-null="False" date="1993-11-19" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2012</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10004">
+      <poseidonkod is-null="False">qw33ed</poseidonkod>
+      <nev is-null="False">Ott Valér</nev>
+      <cim is-null="False">Fót</cim>
+      <szuletesidatum is-null="False" date="1994-07-30" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2011</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10005">
+      <poseidonkod is-null="False">aapzao</poseidonkod>
+      <nev is-null="False">Nagy Ágota</nev>
+      <cim is-null="False">Hajdúszoboszlo</cim>
+      <szuletesidatum is-null="False" date="1993-09-14" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2013</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10006">
+      <poseidonkod is-null="False">23v53h</poseidonkod>
+      <nev is-null="False">Hardi Lajos</nev>
+      <cim is-null="False">Kapuvár</cim>
+      <szuletesidatum is-null="False" date="1990-11-20" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2008</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10007">
+      <poseidonkod is-null="False">fg8k92</poseidonkod>
+      <nev is-null="False">Kereszt Jakab</nev>
+      <cim is-null="False">Balatonföldvár</cim>
+      <szuletesidatum is-null="False" date="1989-08-06" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2008</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10008">
+      <poseidonkod is-null="False">ke09da</poseidonkod>
+      <nev is-null="False">Táltos Aladár</nev>
+      <cim is-null="False">Győr</cim>
+      <szuletesidatum is-null="False" date="1992-03-25" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2008</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10009">
+      <poseidonkod is-null="False">asqwpo</poseidonkod>
+      <nev is-null="False">Nagy Ferenc</nev>
+      <cim is-null="False">Tiszaújváros</cim>
+      <szuletesidatum is-null="False" date="1995-02-02" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2011</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10010">
+      <poseidonkod is-null="False">bhrdyi</poseidonkod>
+      <nev is-null="False">Kiss János</nev>
+      <cim is-null="False">Budapest</cim>
+      <szuletesidatum is-null="False" date="1996-06-07" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2013</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10011">
+      <poseidonkod is-null="False">poqw12</poseidonkod>
+      <nev is-null="False">Magyar Csenge</nev>
+      <cim is-null="False">Miskolc</cim>
+      <szuletesidatum is-null="False" date="1991-07-15" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2010</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10012">
+      <poseidonkod is-null="False">uw34fg</poseidonkod>
+      <nev is-null="False">Horváth Ottokár</nev>
+      <cim is-null="False">Gyöngyös</cim>
+      <szuletesidatum is-null="False" date="1996-08-14" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2009</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10013">
+      <poseidonkod is-null="False">zggogs</poseidonkod>
+      <nev is-null="False">Kinizsi Pál</nev>
+      <cim is-null="False">Nagyenyed</cim>
+      <szuletesidatum is-null="False" date="1991-12-14" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2010</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10014">
+      <poseidonkod is-null="False">vizbul</poseidonkod>
+      <nev is-null="False">Fogarasi Árpád</nev>
+      <cim is-null="False">Kocsord</cim>
+      <szuletesidatum is-null="False" date="1986-06-23" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2007</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10015">
+      <poseidonkod is-null="False">kjhpoa</poseidonkod>
+      <nev is-null="False">Bejar Attila</nev>
+      <cim is-null="False">Szolnok</cim>
+      <szuletesidatum is-null="False" date="1999-02-15" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2014</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10016">
+      <poseidonkod is-null="False">vauvau</poseidonkod>
+      <nev is-null="False">Hegyi Bernát</nev>
+      <cim is-null="False">Mátraderecske</cim>
+      <szuletesidatum is-null="False" date="1996-09-12" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2011</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10017">
+      <poseidonkod is-null="False">aosprg</poseidonkod>
+      <nev is-null="False">Gipsz Jakab</nev>
+      <cim is-null="False">Budapest</cim>
+      <szuletesidatum is-null="False" date="1999-05-09" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2012</egyetemkezdeseve>
+    </record>
+    <record element-type="record" hallgatoid="10018">
+      <poseidonkod is-null="False">zg27ww</poseidonkod>
+      <nev is-null="False">Lehel Bulcsú</nev>
+      <cim is-null="False">Tokaj</cim>
+      <szuletesidatum is-null="False" date="1993-11-16" time="00:00:00"/>
+      <egyetemkezdeseve is-null="False">2009</egyetemkezdeseve>
+    </record>
+  </hallgatok>
+  <targyak element-type="recordset">
+    <record element-type="record" targyid="10000">
+      <poseidonkod is-null="False">KOVTB021</poseidonkod>
+      <targynev is-null="False">Vasúti automatika</targynev>
+      <eloado is-null="False">dr. Mozdony Csaba</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">MgFsz12</terem>
+    </record>
+    <record element-type="record" targyid="10001">
+      <poseidonkod is-null="False">EPVTM002</poseidonkod>
+      <targynev is-null="False">Alakfelismerés</targynev>
+      <eloado is-null="False">Kovacs Béla</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">KII56</terem>
+    </record>
+    <record element-type="record" targyid="10002">
+      <poseidonkod is-null="False">VIHIVTC012</poseidonkod>
+      <targynev is-null="False">Alkalmazott akusztika</targynev>
+      <eloado is-null="False">dr. Süket Elek</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">F29</terem>
+    </record>
+    <record element-type="record" targyid="10003">
+      <poseidonkod is-null="False">TTKM2312</poseidonkod>
+      <targynev is-null="False">Oktatáselmelet</targynev>
+      <eloado is-null="False">Halmos Ágnes</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">Cs</nap2>
+      <terem is-null="False">E1B</terem>
+    </record>
+    <record element-type="record" targyid="10004">
+      <poseidonkod is-null="False">VIII3333</poseidonkod>
+      <targynev is-null="False">UML alapú modellezés</targynev>
+      <eloado is-null="False">dr. Vajda Ferenc</eloado>
+      <nap1 is-null="False">Cs</nap1>
+      <nap2 is-null="False">Cs</nap2>
+      <terem is-null="False">IL405</terem>
+    </record>
+    <record element-type="record" targyid="10005">
+      <poseidonkod is-null="False">GTOE121</poseidonkod>
+      <targynev is-null="False">Bifurkáciok</targynev>
+      <eloado is-null="False">dr. Farkas Miklós</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">Sze</nap2>
+      <terem is-null="False">Q112</terem>
+    </record>
+    <record element-type="record" targyid="10006">
+      <poseidonkod is-null="False">TTFT003</poseidonkod>
+      <targynev is-null="False">Filozófiatörténet</targynev>
+      <eloado is-null="False">dr. Margitai Tihamér</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">E708</terem>
+    </record>
+    <record element-type="record" targyid="10007">
+      <poseidonkod is-null="False">TTOE3232</poseidonkod>
+      <targynev is-null="False">Fogyasztás-szociológia</targynev>
+      <eloado is-null="False">Jánky Béla</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">Cs</nap2>
+      <terem is-null="False">ChMax</terem>
+    </record>
+    <record element-type="record" targyid="10008">
+      <poseidonkod is-null="False">TTNI122</poseidonkod>
+      <targynev is-null="False">Holland kezdő</targynev>
+      <eloado is-null="False">Oula Smets</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">Sze</nap2>
+      <terem is-null="False">E1007</terem>
+    </record>
+    <record element-type="record" targyid="10009">
+      <poseidonkod is-null="False">TTFT004</poseidonkod>
+      <targynev is-null="False">Kaland a világirodalomban</targynev>
+      <eloado is-null="False">Váradi Mónika</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">K</nap2>
+      <terem is-null="False">StNagy</terem>
+    </record>
+    <record element-type="record" targyid="10010">
+      <poseidonkod is-null="False">VEBT4321</poseidonkod>
+      <targynev is-null="False">Környezetkultúra</targynev>
+      <eloado is-null="False">dr. Tóth Judit</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">KI45</terem>
+    </record>
+    <record element-type="record" targyid="10011">
+      <poseidonkod is-null="False">VIEEJV14</poseidonkod>
+      <targynev is-null="False">Optoelektronika</targynev>
+      <eloado is-null="False">dr. Zólomy Imre</eloado>
+      <nap1 is-null="False">Sze</nap1>
+      <nap2 is-null="False">Sze</nap2>
+      <terem is-null="False">IE201</terem>
+    </record>
+    <record element-type="record" targyid="10012">
+      <poseidonkod is-null="False">VITMAB00</poseidonkod>
+      <targynev is-null="False">Adatbázisok</targynev>
+      <eloado is-null="False">Gajdos Sándor</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">Sze</nap2>
+      <terem is-null="False">IB028</terem>
+    </record>
+    <record element-type="record" targyid="10013">
+      <poseidonkod is-null="False">VIAUJV83</poseidonkod>
+      <targynev is-null="False">Webportálok fejlesztése</targynev>
+      <eloado is-null="False">Gincsai Gábor</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">Cs</nap2>
+      <terem is-null="False">IB141</terem>
+    </record>
+    <record element-type="record" targyid="10014">
+      <poseidonkod is-null="False">VIAUJV19</poseidonkod>
+      <targynev is-null="False">A Web programozása</targynev>
+      <eloado is-null="False">Gál Tibor</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">IB026</terem>
+    </record>
+    <record element-type="record" targyid="10015">
+      <poseidonkod is-null="False">BGRUD1VNND</poseidonkod>
+      <targynev is-null="False">Űrdinamika</targynev>
+      <eloado is-null="False">Kirk Tibor</eloado>
+      <nap1 is-null="False">Sze</nap1>
+      <nap2 is-null="False">Cs</nap2>
+      <terem is-null="False">E341</terem>
+    </record>
+    <record element-type="record" targyid="10016">
+      <poseidonkod is-null="False">VEAQWQ172</poseidonkod>
+      <targynev is-null="False">Bioelektromechanika</targynev>
+      <eloado is-null="False">Dr. Kovács Natália</eloado>
+      <nap1 is-null="False">H</nap1>
+      <nap2 is-null="False">Cs</nap2>
+      <terem is-null="False">Q113</terem>
+    </record>
+    <record element-type="record" targyid="10017">
+      <poseidonkod is-null="False">TTTT0001</poseidonkod>
+      <targynev is-null="False">Túléléstan II.</targynev>
+      <eloado is-null="False">John Lock</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">P</nap2>
+      <terem is-null="False">IL105</terem>
+    </record>
+    <record element-type="record" targyid="10018">
+      <poseidonkod is-null="False">VIPHPM01</poseidonkod>
+      <targynev is-null="False">PHP programázasa</targynev>
+      <eloado is-null="False">Hiper Texx Professor</eloado>
+      <nap1 is-null="False">K</nap1>
+      <nap2 is-null="False">Sze</nap2>
+      <terem is-null="False">IB028</terem>
+    </record>
+  </targyak>
+  <targyfelvetel element-type="recordset">
+    <record element-type="record" targyfelvetelid="10000">
+      <targy is-null="False">10007</targy>
+      <hallgato is-null="False">10000</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-15" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-28" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10001">
+      <targy is-null="False">10007</targy>
+      <hallgato is-null="False">10001</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-15" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-29" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10002">
+      <targy is-null="False">10007</targy>
+      <hallgato is-null="False">10002</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-15" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-28" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10003">
+      <targy is-null="False">10011</targy>
+      <hallgato is-null="False">10003</hallgato>
+      <targyfelvidopont is-null="False" date="2012-08-09" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2013-01-13" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10004">
+      <targy is-null="False">10011</targy>
+      <hallgato is-null="False">10004</hallgato>
+      <targyfelvidopont is-null="False" date="2013-02-13" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2013-06-05" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10005">
+      <targy is-null="False">10018</targy>
+      <hallgato is-null="False">10000</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-03" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-08" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10006">
+      <targy is-null="False">10018</targy>
+      <hallgato is-null="False">10005</hallgato>
+      <targyfelvidopont is-null="False" date="2012-08-01" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2013-01-05" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10007">
+      <targy is-null="False">10018</targy>
+      <hallgato is-null="False">10006</hallgato>
+      <targyfelvidopont is-null="False" date="2001-02-05" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2001-06-21" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10008">
+      <targy is-null="False">10015</targy>
+      <hallgato is-null="False">10007</hallgato>
+      <targyfelvidopont is-null="False" date="2014-08-06" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2015-01-10" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10009">
+      <targy is-null="False">10014</targy>
+      <hallgato is-null="False">10008</hallgato>
+      <targyfelvidopont is-null="False" date="2015-08-21" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2016-01-10" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10010">
+      <targy is-null="False">10008</targy>
+      <hallgato is-null="False">10008</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-28" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-28" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10011">
+      <targy is-null="False">10008</targy>
+      <hallgato is-null="False">10004</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-28" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-28" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10012">
+      <targy is-null="False">10012</targy>
+      <hallgato is-null="False">10002</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-23" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-13" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10013">
+      <targy is-null="False">10016</targy>
+      <hallgato is-null="False">10003</hallgato>
+      <targyfelvidopont is-null="False" date="2014-08-05" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2015-01-04" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10014">
+      <targy is-null="False">10014</targy>
+      <hallgato is-null="False">10006</hallgato>
+      <targyfelvidopont is-null="False" date="2007-02-13" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2007-06-19" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10015">
+      <targy is-null="False">10016</targy>
+      <hallgato is-null="False">10003</hallgato>
+      <targyfelvidopont is-null="False" date="2014-08-31" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2015-01-02" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10016">
+      <targy is-null="False">10014</targy>
+      <hallgato is-null="False">10006</hallgato>
+      <targyfelvidopont is-null="False" date="2015-02-28" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2015-06-03" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10017">
+      <targy is-null="False">10016</targy>
+      <hallgato is-null="False">10004</hallgato>
+      <targyfelvidopont is-null="False" date="2016-08-30" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2017-01-04" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10018">
+      <targy is-null="False">10015</targy>
+      <hallgato is-null="False">10004</hallgato>
+      <targyfelvidopont is-null="False" date="2017-02-28" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2017-06-05" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10019">
+      <targy is-null="False">10000</targy>
+      <hallgato is-null="False">10004</hallgato>
+      <targyfelvidopont is-null="False" date="2014-02-15" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2014-06-14" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10020">
+      <targy is-null="False">10011</targy>
+      <hallgato is-null="False">10006</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-13" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-19" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10021">
+      <targy is-null="False">10006</targy>
+      <hallgato is-null="False">10003</hallgato>
+      <targyfelvidopont is-null="False" date="2015-08-07" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2016-01-26" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10022">
+      <targy is-null="False">10008</targy>
+      <hallgato is-null="False">10016</hallgato>
+      <targyfelvidopont is-null="False" date="2017-08-05" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-01-08" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10023">
+      <targy is-null="False">10006</targy>
+      <hallgato is-null="False">10003</hallgato>
+      <targyfelvidopont is-null="False" date="2016-08-06" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2017-01-12" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10024">
+      <targy is-null="False">10004</targy>
+      <hallgato is-null="False">10008</hallgato>
+      <targyfelvidopont is-null="False" date="2014-02-04" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2014-06-09" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10025">
+      <targy is-null="False">10010</targy>
+      <hallgato is-null="False">10005</hallgato>
+      <targyfelvidopont is-null="False" date="2014-08-17" time="00:00:00"/>
+      <eloszorhall is-null="False">0</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2015-01-19" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10026">
+      <targy is-null="False">10007</targy>
+      <hallgato is-null="False">10005</hallgato>
+      <targyfelvidopont is-null="False" date="2013-08-12" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2014-01-12" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10027">
+      <targy is-null="False">10005</targy>
+      <hallgato is-null="False">10013</hallgato>
+      <targyfelvidopont is-null="False" date="2014-08-05" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2014-01-18" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10028">
+      <targy is-null="False">10008</targy>
+      <hallgato is-null="False">10018</hallgato>
+      <targyfelvidopont is-null="False" date="2015-02-21" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2015-06-12" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10029">
+      <targy is-null="False">10005</targy>
+      <hallgato is-null="False">10001</hallgato>
+      <targyfelvidopont is-null="False" date="2014-02-09" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ps</psptl>
+      <vizsgaidopont is-null="False" date="2014-06-19" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10030">
+      <targy is-null="False">10002</targy>
+      <hallgato is-null="False">10014</hallgato>
+      <targyfelvidopont is-null="False" date="2013-02-03" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2013-06-07" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10031">
+      <targy is-null="False">10007</targy>
+      <hallgato is-null="False">10013</hallgato>
+      <targyfelvidopont is-null="False" date="2017-02-03" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2017-06-07" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10032">
+      <targy is-null="False">10010</targy>
+      <hallgato is-null="False">10000</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-05" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-12" time="00:00:00"/>
+    </record>
+    <record element-type="record" targyfelvetelid="10033">
+      <targy is-null="False">10018</targy>
+      <hallgato is-null="False">10000</hallgato>
+      <targyfelvidopont is-null="False" date="2018-02-05" time="00:00:00"/>
+      <eloszorhall is-null="False">1</eloszorhall>
+      <psptl is-null="False">ptl</psptl>
+      <vizsgaidopont is-null="False" date="2018-06-06" time="00:00:00"/>
+    </record>
+  </targyfelvetel>
+</hall>
