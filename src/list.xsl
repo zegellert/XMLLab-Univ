@@ -11,7 +11,7 @@
     <xsl:apply-templates select="hall/hallgatok" />
   </xsl:template>
 
-  <xsl:template match="hallgatok[@element-type='recordset']">
+  <xsl:template match="hallgatok[@element-type='recordset']" name="tableheaders">
     <table>
         <tr>
           <th>Poseidon</th>
@@ -22,7 +22,7 @@
     </table>
   </xsl:template>
 
-  <xsl:template match="hallgatok[@element-type='recordset']/record">
+  <xsl:template match="hallgatok[@element-type='recordset']/record" name="tablebody">
     <tr>
       <xsl:apply-templates select="poseidonkod" />
       <xsl:apply-templates select="nev" />

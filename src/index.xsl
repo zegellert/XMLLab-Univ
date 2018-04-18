@@ -13,10 +13,10 @@
   <xsl:template match="/">
     <html>
       <head>
-        <title>Ship register</title>
+        <title>Hallgato regiszter</title>
       </head>
       <body>
-        <h1>Ships</h1>
+        <h1>Hallgatok</h1>
         <!-- here comes the list -->
       </body>
     </html>
