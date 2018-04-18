@@ -7,9 +7,20 @@
 
   <xsl:output method="xml" indent="yes" />
 
-  <xsl:template match="/hall">
+ <xsl:template match="/hall">
     <xsl:copy>
-      <xsl:copy-of select="hallgatok/record[year-from-date(current-date())-year-from-date(szuletesidatum/@date)&lt;24]"/>
+      <!-- see xsl:attribute to copy attributes of the element -->
+      <xsl:copy-of select="@*"/>
+      <xsl:apply-templates select="hallgatok" />
+      
     </xsl:copy>
   </xsl:template>
+
+  <xsl:template match="hallgatok">
+    <xsl:copy>
+    <xsl:copy-of select="@*"/>
+      <xsl:copy-of select="record[year-from-date(current-date())-year-from-date(szuletesidatum/@date)&lt;24]"/>
+    </xsl:copy>
+  </xsl:template>
+  
 </xsl:stylesheet>
