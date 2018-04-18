@@ -11,18 +11,18 @@
     <xsl:apply-templates select="hall/hallgatok" />
   </xsl:template>
 
-  <xsl:template match="hallgatok[@element-type='recordset']" name="tableheaders">
+  <xsl:template match="hallgatok[@element-type='recordset']">
     <table>
         <tr>
-          <th>Poseidon</th>
-          <th>Name</th>
-		  <th>Birth Date</th>
+          <th>Poszeidon-kód</th>
+          <th>Név</th>
+		  <th>Születési dátum</th>
         </tr>
         <xsl:apply-templates />
     </table>
   </xsl:template>
 
-  <xsl:template match="hallgatok[@element-type='recordset']/record" name="tablebody">
+  <xsl:template match="hallgatok[@element-type='recordset']/record">
     <tr>
       <xsl:apply-templates select="poseidonkod" />
       <xsl:apply-templates select="nev" />

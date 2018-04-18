@@ -9,7 +9,6 @@
 
   <xsl:output method="html" indent="yes" version="5.0" />
 
-  <!-- override root template from list.xsl -->
   <xsl:template match="/">
     <html>
       <head>
@@ -17,7 +16,7 @@
       </head>
       <body>
         <h1>Hallgatok</h1>
-        <!-- here comes the list -->
+        <xsl:apply-templates select="hall/hallgatok" />
       </body>
     </html>
   </xsl:template>
