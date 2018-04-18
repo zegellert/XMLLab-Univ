@@ -9,10 +9,8 @@
 
  <xsl:template match="/hall">
     <xsl:copy>
-      <!-- see xsl:attribute to copy attributes of the element -->
       <xsl:copy-of select="@*"/>
       <xsl:apply-templates select="hallgatok" />
-      
     </xsl:copy>
   </xsl:template>
 
