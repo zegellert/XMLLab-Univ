@@ -8,16 +8,18 @@
   <xsl:output method="text" />
 
   <xsl:template match="/">
-    <xsl:apply-templates select="ship/ships" />
+    <xsl:apply-templates select="hall/hallgatok" />
   </xsl:template>
 
-  <xsl:template match="ships[@element-type='recordset']"
->"Name"
-<xsl:apply-templates select="*"
-/></xsl:template>
+  <xsl:template match="hallgatok[@element-type='recordset']">"Poszeidon-kód";"Név";"Születési-dátum";
+<xsl:apply-templates select="*"/>
+</xsl:template>
 
-  <xsl:template match="ships[@element-type='recordset']/record"
-><xsl:apply-templates select="name" /><xsl:text>&#10;</xsl:text>
+  <xsl:template match="hallgatok[@element-type='recordset']/record">
+  <xsl:text>&quot;</xsl:text><xsl:apply-templates select="poseidonkod" /><xsl:text>&quot;;</xsl:text>
+  <xsl:text>&quot;</xsl:text><xsl:apply-templates select="nev" /><xsl:text>&quot;;</xsl:text>
+  <xsl:text>&quot;</xsl:text><xsl:apply-templates select="szuletesidatum/@date" /><xsl:text>&quot;;</xsl:text>
+  <xsl:text>&#10;</xsl:text>
 </xsl:template>
 
   <xsl:template match="record/*" priority="0.4"
